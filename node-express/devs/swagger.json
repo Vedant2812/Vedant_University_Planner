@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Powell Puff Planner API",
+    "title": "Planner API",
     "description": "These are all the public API Endpoints for our localhost server",
     "version": "1.0.0"
   },
