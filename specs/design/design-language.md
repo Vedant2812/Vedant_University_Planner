@@ -27,7 +27,6 @@ Extra Colors (if needed)
 
 
 ## Fonts
-- power puff girls font (title page only)
 - IBM Plex Sans
   - Bold (headers)
   - Regular (element primary information e.g. class title, time)
