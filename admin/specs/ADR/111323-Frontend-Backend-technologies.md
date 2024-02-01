@@ -4,7 +4,7 @@
 To finalize the technologies to be used for the frontend and the backend of our CRUD app
 
 ## Context
-We need to finalize the technolgies in which the frontend and the backend would be coded for our app Powell Puff
+We need to finalize the technolgies in which the frontend and the backend would be coded for our app
 
 ### Frontend
 - HTML and CSS
