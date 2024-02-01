@@ -10,7 +10,7 @@ description. may include justification for choice.
 
 
 ## Database Data Structure
-**Fully implemented using .json files stored in browser's localStorage before testing any alternatives** per Allison's guidance.
+**Fully implemented using .json files stored in browser's localStorage before testing any alternatives**
 
 Here's what we are **Deciding** to keep track of for our app.
 
