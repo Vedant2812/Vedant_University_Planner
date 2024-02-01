@@ -3,7 +3,7 @@ const path = require('path');
 
 const doc = {
     info: {
-      title: 'Powell Puff Planner API',
+      title: 'Planner API',
       description: 
       'These are all the public API Endpoints for our localhost server',
     },
