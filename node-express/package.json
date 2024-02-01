@@ -10,7 +10,7 @@
         "doc": "jsdoc -c devs/jsdoc.config.json",
         "swagger-autogen": "node devs/swagger.js"
     },
-    "author": "Tung Nguyen",
+    "author": "Vedant Goradia",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.1.0",
